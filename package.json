@@ -1,0 +1,28 @@
+{
+  "name": "smf-seed-express4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serkanserttop/smf-seed-express4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkanserttop/smf-seed-express4/issues"
+  },
+  "homepage": "https://github.com/serkanserttop/smf-seed-express4",
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.0",
+    "gulp-uglify": "^1.1.0",
+    "jshint": "^2.6.0"
+  }
+}
